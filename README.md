@@ -22,3 +22,11 @@ In many organizations, managing Kubernetes clusters manually requires constant m
   - Slack API: For notifications to DevOps teams
   - Docker: To containerize the application and deploy it as a microservice
 ---
+
+## Port Architecture:
+
+| Service | Port Number | Description |
+| --- | --- | --- |
+| Client | 3000 | To Access main page for user |
+
+
